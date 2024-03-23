@@ -23,6 +23,6 @@ Endpoints Disponibles
  - PUT /api/recetas/:id: Actualiza una receta existente por su ID.
  - DELETE /api/recetas/:id: Elimina una receta existente por su ID.
 
-##Contribuir
+###Contribuir
 
 Si deseas contribuir a este proyecto, por favor crea un "pull request" con tus cambios o abre una nueva "issue" para reportar problemas o sugerir nuevas funcionalidades.
